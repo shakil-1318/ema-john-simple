@@ -1,0 +1,19 @@
+.single-product{
+    border-bottom: 2px solid lightgray;
+    display: flex;
+}
+.single-product img{
+    margin-right: 30px;
+}
+.product-name{
+    color: blue;
+}
+.btn-regular{
+    background-color: goldenrod;
+    border: 2px solid grey;
+    width: 150px;
+    padding: 5px 0;
+    border-radius: 10px;
+    cursor: pointer;border: none;
+    margin-bottom: 10px;
+}
